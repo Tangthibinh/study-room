@@ -1,23 +1,8 @@
 # VKU Real-time Study Room Booking App
 ### Cross-Platform Mobile Application Development (Mini-Project 2)
 **Vietnam - Korea University of Information and Communication Technology (VKU)**  
-**Student:** Lê Cảm (CAMLC25) — Student ID: 21IT001
+**Student:** Tăng Thị Bình — Student ID: 23IT.EB011
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Cloudflare_Workers-F38020.svg?logo=cloudflare)](https://camle-vku-study-room.lecam.workers.dev)
-[![TypeScript Strict](https://img.shields.io/badge/TypeScript-Strict_v6-blue.svg)](https://www.typescriptlang.org/)
-[![Expo SDK](https://img.shields.io/badge/Expo-SDK_57-black.svg)](https://expo.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-0.86-61dafb.svg)](https://reactnative.dev/)
-[![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.0_Server_State-FF4154.svg)](https://tanstack.com/query)
-[![Reanimated](https://img.shields.io/badge/Reanimated-Layout_Animations-8B5CF6.svg)](https://docs.swmansion.com/react-native-reanimated/)
-[![State Management](https://img.shields.io/badge/Zustand-5.0_Persist-orange.svg)](https://zustand-demo.pmnd.rs/)
-[![Database](https://img.shields.io/badge/PostgreSQL-15+_Supabase-3ecf8e.svg)](https://supabase.com/)
-[![Tests](https://img.shields.io/badge/Tests-100%25_Passing-brightgreen.svg)]()
-
----
-
-> 🚀 **Live Production Web Deployment**: [https://camle-vku-study-room.lecam.workers.dev](https://camle-vku-study-room.lecam.workers.dev)  
-> 📄 **Official Submission Report (Word Docx)**: [`docs/MINI_PROJECT_2_REPORT.docx`](docs/MINI_PROJECT_2_REPORT.docx)  
-> 📝 **Official Submission Report (Markdown)**: [`docs/REPORT.md`](docs/REPORT.md)  
 
 ---
 
